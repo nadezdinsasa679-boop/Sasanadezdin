@@ -1,0 +1,20 @@
+HTMLSimpl.
+<html>
+<head> <title> Добро пожаловать в Web – страницу
+</title> </head>
+<body allign = "center" alink = "tomato" link =
+"FFFF00" > Здесь содержимое страницы
+<a href = “http.//www.microsoft.com” Microsoft>
+Нажмите на ссылку </a> Вставить также форматированный
+текст, используя тэги <pre> и </pre>.
+<table border="1"> <tr align = "center">
+<th colspan = "3"> Это таблица </th> </tr>
+<tr align = "center">
+<td> Это </td> <td> ячейки </td> <td> для </td>
+</tr>
+<tr align = "center">
+<td> данных </td> <td> в </td> <td> таблице </td>
+</tr>
+</table>
+</body>
+</html>
